@@ -22,6 +22,7 @@
 				"ms-toolsai.jupyter",
 				"ms-python.python",
 				"VisualStudioExptTeam.vscodeintellicode",
+				"mechatroner.rainbow-csv",
 				"oderwat.indent-rainbow",
 				"evondev.indent-rainbow-palettes",
 				"shardulm94.trailing-spaces"
